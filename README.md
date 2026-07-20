@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **stgonzalesg@gmail.com**
 
-<h3 align="center">My stats:</h3>
-
 <div align="center">
 
 [![Stefano's GitHub stats](https://github-stats-extended.vercel.app/api?username=sgonzalesg&theme=dark)](https://github.com/stats-organization/github-stats-extended)
