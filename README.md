@@ -1,15 +1,15 @@
 <h3 align="center"> Hi, I'm Stefano Gonzales</h1>
 <h4 align="center"> Graduate in Physics from the National University of Engineering (UNI), specializing in data science, automation with artificial intelligence, and backend development. Possesses a solid foundation in mathematical modeling, numerical methods, and data optimization. Proven experience in implementing AI architectures (MCP servers and LLM models) and ERP/CRM enterprise systems, focused on delivering highly efficient technological solutions.</h4>
 
-- 🌱 I’m currently learning **Deeplearning and PySpark**
-
-- 📫 How to reach me **stgonzalesg@gmail.com**
-
 <div align="center">
 
 [![Stefano's GitHub stats](https://github-stats-extended.vercel.app/api?username=sgonzalesg&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
+
+- 🌱 I’m currently learning **Deeplearning and PySpark**
+
+- 📫 How to reach me **stgonzalesg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
