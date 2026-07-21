@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Stefano's GitHub stats](https://github-stats-extended.vercel.app/api?username=sgonzalesg&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+[![Stefano's GitHub stats](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
